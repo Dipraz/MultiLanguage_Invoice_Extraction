@@ -17,7 +17,7 @@ Clear Presentation: Presents findings in a concise and informative manner.
 
 Requirements:
 
-Python 3.7 or later
+Python 3.10 or later
 Streamlit
 Google Generative AI library
 A Google API key with access to the Gemini Pro Vision model
